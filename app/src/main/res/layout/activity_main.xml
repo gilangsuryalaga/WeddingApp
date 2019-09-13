@@ -15,7 +15,9 @@
         android:background="@color/white"
         android:iconifiedByDefault="false"
         android:queryHint="Search here"
-        android:id="@+id/searchview"></SearchView>
+        android:id="@+id/searchview">
+
+    </SearchView>
 <ScrollView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
