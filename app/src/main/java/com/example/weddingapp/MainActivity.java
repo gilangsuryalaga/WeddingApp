@@ -24,16 +24,16 @@ public class MainActivity extends AppCompatActivity {
     String[] harga = {"1Jt","2Jt","3Jt","4Jt","5Jt","6Jt","7Jt","8Jt","9Jt","10Jt"};
 
     int[] pic = {
-            R.drawable.wedding1,
-            R.drawable.wedding2,
-            R.drawable.wedding3,
-            R.drawable.wedding4,
-            R.drawable.wedding5,
-            R.drawable.wedding6,
-            R.drawable.wedding7,
-            R.drawable.wedding8,
-            R.drawable.wedding9,
-            R.drawable.wedding10
+            R.drawable.gambar,
+            R.drawable.gambar,
+            R.drawable.gambar,
+            R.drawable.gambar,
+            R.drawable.gambar,
+            R.drawable.gambar,
+            R.drawable.gambar,
+            R.drawable.gambar,
+            R.drawable.gambar,
+            R.drawable.gambar
     };
     @Override
     protected void onCreate(Bundle savedInstanceState) {
